@@ -23,36 +23,56 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ror-2-server",
     "status": "down",
-    "uptime": "0.17%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
+    "uptime": "0.16%",
+    "uptimeDay": "0.16%",
+    "uptimeWeek": "0.16%",
+    "uptimeMonth": "0.16%",
+    "uptimeYear": "0.16%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-25": 50
+      "2022-11-25": 54
     }
   },
   {
     "name": "Alicloud SC",
-    "url": "8.130.34.155",
+    "url": "8.130.34.155   173.82.152.21",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alicloud-sc",
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
+    "time": 215,
+    "timeDay": 215,
+    "timeWeek": 215,
+    "timeMonth": 215,
+    "timeYear": 215,
+    "dailyMinutesDown": {
+      "2022-11-25": 0
+    }
+  },
+  {
+    "name": "Cloudcone SC",
+    "url": "173.82.152.21",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "cloudcone-sc",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 215,
-    "timeWeek": 215,
-    "timeMonth": 215,
-    "timeYear": 215,
+    "time": 62,
+    "timeDay": 62,
+    "timeWeek": 62,
+    "timeMonth": 62,
+    "timeYear": 62,
     "dailyMinutesDown": {}
   }
 ]
