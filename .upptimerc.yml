@@ -13,7 +13,7 @@ sites:
   - name: Alicloud SC
     check: "tcp-ping"
     url: 8.130.34.155
-    port: 3899
+    port: 3389
     
 
 status-website:
