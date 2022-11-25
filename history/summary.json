@@ -1,20 +1,20 @@
 [
   {
-    "name": "盘",
+    "name": "drive on the net",
     "url": "https://cloud.awa.wiki",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.awa.wiki.ico",
-    "slug": "",
+    "slug": "drive-on-the-net",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2083,
-    "timeDay": 2083,
-    "timeWeek": 2083,
-    "timeMonth": 2083,
-    "timeYear": 2083,
+    "time": 1935,
+    "timeDay": 1935,
+    "timeWeek": 1935,
+    "timeMonth": 1935,
+    "timeYear": 1935,
     "dailyMinutesDown": {}
   }
 ]
