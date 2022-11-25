@@ -16,7 +16,7 @@ sites:
     port: 3389
   - name: Cloudcone SC
     check: "tcp-ping"
-    url: 173.82.152.21
+    url: 173.82.152.200
     port: 22
     
 
