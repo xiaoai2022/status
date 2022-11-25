@@ -12,8 +12,12 @@ sites:
     port: 27015
   - name: Alicloud SC
     check: "tcp-ping"
-    url: 8.130.34.155
+    url: 8.130.34.155   173.82.152.21
     port: 3389
+  - name: Cloudcone SC
+    check: "tcp-ping"
+    url: 173.82.152.21
+    port: 22
     
 
 status-website:
