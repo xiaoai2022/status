@@ -10,6 +10,10 @@ sites:
     check: "tcp-ping"
     url: 8.130.34.155
     port: 27015
+  - name: Alicloud SC
+    check: "tcp-ping"
+    url: 8.130.34.155
+    port: 3899
     
 
 status-website:
