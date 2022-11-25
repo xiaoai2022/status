@@ -5,12 +5,11 @@ repo: status # The name of this repository
 sites:
   - name: drive on the net
     url: https://cloud.awa.wiki
-     maxResponseTime: 2500
+    maxResponseTime: 2500
   - name: ROR2 Server
     check: "tcp-ping"
     url: 8.130.34.155
     port: 27015
-     maxResponseTime: 1000
     
 
 status-website:
