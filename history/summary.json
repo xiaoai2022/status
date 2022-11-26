@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.awa.wiki.ico",
     "slug": "personal-nextcloud",
     "status": "up",
-    "uptime": "90.87%",
-    "uptimeDay": "90.87%",
-    "uptimeWeek": "90.87%",
-    "uptimeMonth": "90.87%",
-    "uptimeYear": "90.87%",
-    "time": 2197,
-    "timeDay": 2197,
-    "timeWeek": 2197,
-    "timeMonth": 2197,
-    "timeYear": 2197,
-    "dailyMinutesDown": {
-      "2022-11-25": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2210,
+    "timeDay": 2210,
+    "timeWeek": 2210,
+    "timeMonth": 2210,
+    "timeYear": 2210,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ROR2 Server",
@@ -25,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ror-2-server",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-25": 251
+      "2022-11-26": 176,
+      "2022-11-25": 1240
     }
   },
   {
@@ -50,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 221,
-    "timeWeek": 221,
-    "timeMonth": 221,
-    "timeYear": 221,
+    "time": 220,
+    "timeDay": 220,
+    "timeWeek": 220,
+    "timeMonth": 220,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 53,
-    "timeDay": 53,
-    "timeWeek": 53,
-    "timeMonth": 53,
-    "timeYear": 53,
+    "time": 55,
+    "timeDay": 55,
+    "timeWeek": 55,
+    "timeMonth": 55,
+    "timeYear": 55,
     "dailyMinutesDown": {}
   }
 ]
