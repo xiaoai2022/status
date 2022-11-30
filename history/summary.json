@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-30": 177,
+      "2022-11-30": 403,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
@@ -47,7 +47,7 @@
     "url": "8.130.34.155",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alicloud-sc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -58,7 +58,9 @@
     "timeWeek": 228,
     "timeMonth": 228,
     "timeYear": 228,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-30": 0
+    }
   },
   {
     "name": "Cloudcone SC",
