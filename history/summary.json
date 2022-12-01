@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2127,
-    "timeDay": 1892,
-    "timeWeek": 2127,
-    "timeMonth": 2127,
-    "timeYear": 2127,
+    "time": 2138,
+    "timeDay": 2244,
+    "timeWeek": 2138,
+    "timeMonth": 2138,
+    "timeYear": 2138,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-30": 403,
+      "2022-12-01": 203,
+      "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
@@ -48,18 +49,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alicloud-sc",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "85.57%",
+    "uptimeDay": "13.86%",
+    "uptimeWeek": "85.57%",
+    "uptimeMonth": "85.57%",
+    "uptimeYear": "85.57%",
     "time": 228,
-    "timeDay": 259,
+    "timeDay": 0,
     "timeWeek": 228,
     "timeMonth": 228,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2022-11-30": 0
+      "2022-12-01": 203,
+      "2022-11-30": 1037
     }
   },
   {
@@ -73,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 54,
-    "timeDay": 62,
-    "timeWeek": 54,
-    "timeMonth": 54,
-    "timeYear": 54,
+    "time": 55,
+    "timeDay": 64,
+    "timeWeek": 55,
+    "timeMonth": 55,
+    "timeYear": 55,
     "dailyMinutesDown": {}
   }
 ]
